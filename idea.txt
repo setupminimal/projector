@@ -1,0 +1,8 @@
+A project management system that does what *I* want:
+
+1) A new folder in Important
+2) CDs there
+3) git-inits
+4) Starts editing idea.txt
+
+Nothing else - at least for now.
